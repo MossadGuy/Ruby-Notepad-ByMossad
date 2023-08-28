@@ -1,2 +1,3 @@
 # Ruby-Notepad-ByMossad
-Notpad application with ruby that I made myself
+
+The UI of this application is written in Turkish
